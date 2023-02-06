@@ -5,4 +5,4 @@
 ## Version/Visbility
 - Version: K6
 - Profile: OPEN
-- Repos: Partially OPEN
+- Repos: OPEN
