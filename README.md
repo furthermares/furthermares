@@ -6,6 +6,6 @@ Hi. This here is less of a portfolio but a repository of the works I did. Check 
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=furthermares&theme=warm)
 
 ## Version/Visbility
-- Version: K6
+- Version: N
 - Profile: OPEN
 - Repos: OPEN
