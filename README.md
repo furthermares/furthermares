@@ -5,6 +5,6 @@ Collection of my current Machine Learning studies, and toy projects from the pas
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=furthermares&theme=warm)
 
 ## Version/Visbility
-- Version: N
+- Version: K
 - Profile: OPEN
 - Repos: OPEN
